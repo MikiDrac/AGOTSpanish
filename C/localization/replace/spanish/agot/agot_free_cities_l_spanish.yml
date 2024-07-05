@@ -1,32 +1,32 @@
 ﻿l_spanish:
   ### Government ### 
- free_city_government: "Ciudad libre" #NT!
- free_city_government_adjective: "Ciudad libre" #NT!
+ free_city_government: "Ciudad Libre" #NT!
+ free_city_government_adjective: "Ciudad Kibre" #NT!
  free_city_government_realm: "Participaciones de la ciudad" #NT!
- free_city_government_vassals_label: "Ciudad libre [obligations|E] se basa en el [feudal_contract|E] de cada [vassal|E]" #NT!
+ free_city_government_vassals_label: "Ciudad Libre [obligations|E] se basa en el [feudal_contract|E] de cada [vassal|E]" #NT!
  free_city_government_desc: "Las Ciudades Libres de Essos son ciudades-estado independientes que existen desde que el Imperio Valyrio gobernaba el continente." #NT!
- c_tyroshi_landing: "Aterrizaje de Tyroshi" #NT!
+ c_tyroshi_landing: "Desembarco de Tyroshi" #NT!
   
   ### Laws ### 
  free_city_single_heir_succession_law: "Primogenitura" #NT!
  free_city_single_heir_succession_law_subname: "Primogenitura" #NT!
   
- magisterial_life_succession_law: "Electiva de Archonato" #NT!
+ magisterial_life_succession_law: "Electiva de Arconato" #NT!
  magisterial_life_succession_law_subname: "Magistral" #NT!
  magisterial_life_elective_candidates: "Magistrados" #NT!
- magisterial_life_elective_candidates_tooltip: "Los ricos y poderosos de las Ciudades Libres son conocidos como los magisters." #NT!
+ magisterial_life_elective_candidates_tooltip: "Los ricos y poderosos de las Ciudades Libres son conocidos como los magísteres." #NT!
  magisterial_life_elective_electors: "Magistrados" #NT!
- magisterial_life_elective_electors_tooltip: "Los votos de los más grandes magistrados deciden la elección. El resto se alineará" #NT!
- magisterial_life_succession_attached_titles_law: "Electiva Arconato" #NT!
+ magisterial_life_elective_electors_tooltip: "Los votos de los más grandes magísteres deciden la elección. El resto se alineará" #NT!
+ magisterial_life_succession_attached_titles_law: "Arconato electivo" #NT!
  magisterial_life_succession_attached_titles_law_effects: "Este título seguirá a la elección del reino." #NT!
  magisterial_life_succession_attached_titles_law_subname: "Magistral" #NT!
   
  magisterial_limited_succession_law: "Primera Electiva Magistral" #NT!
  magisterial_limited_succession_law_subname: "Magistral" #NT!
  magisterial_limited_elective_candidates: "Maestros" #NT!
- magisterial_limited_elective_candidates_tooltip: "Los ricos y poderosos de las Ciudades Libres son conocidos como los magisters." #NT!
+ magisterial_limited_elective_candidates_tooltip: "Los ricos y poderosos de las Ciudades Libres son conocidos como los magísteres." #NT!
  magisterial_limited_elective_electors: "Magistrados" #NT!
- magisterial_limited_elective_electors_tooltip: "Los votos de los más grandes magistrados deciden la elección. El resto se alineará" #NT!
+ magisterial_limited_elective_electors_tooltip: "Los votos de los más grandes magísteres deciden la elección. El resto se alineará" #NT!
  magisterial_limited_succession_attached_titles_law: "Primera Electiva Magistral" #NT!
  magisterial_limited_succession_attached_titles_law_effects: "Este título seguirá a la elección del reino." #NT!
  magisterial_limited_succession_attached_titles_law_subname: "Magistral" #NT!
@@ -60,27 +60,27 @@
  free_city_events.0005.a: "¡Deberíamos declarar la guerra!" #NT!
  free_city_events.0005.b: "No deberíamos #bold#! declarar la guerra..." #NT!
   
- free_city_events.1000.t: "Liberar las ciudades libres" #NT!
+ free_city_events.1000.t: "Liberar las Ciudades Libres" #NT!
  free_city_events.1000.desc: ""¿Pensabas que la tiranía del [dead_ruler.GetNamePossessive] duraría para siempre? Ahora que el [free_city.GetName] se ha liberado de la mancha del [dead_ruler.GetHerHis], hemos reanudado las elecciones y no eres tú a quien elegimos"." #NT!
  free_city_events.1000.a: "Oh, no..." #NT!
   
   ### Decisions/Interactions ### 
- agot_attempt_triarchy: "Intento de formar la triarquía" #NT!
+ agot_attempt_triarchy: "Intento de formar la Triarquía" #NT!
  agot_attempt_triarchy_desc: "Llegar a las otras Tres Hijas para formar la Triarquía" #NT!
- agot_attempt_triarchy_tooltip: "Acércate a tus compañeros gobernantes para formar la triarquía." #NT!
+ agot_attempt_triarchy_tooltip: "Acércate a tus compañeros gobernantes para formar la Triarquía." #NT!
  agot_attempt_triarchy_confirm: "Tráeme mi sello" #NT!
  request_war_interaction: "Solicitar permiso para la guerra" #NT!
  request_war_desc: "Solicita que el Alto Consejo te conceda permiso para declarar la guerra" #NT!
   
  agot_create_three_daughters: "Forma el Reino de las Tres Hijas" #NT!
- agot_create_three_daughters_desc: "Ahora que controlo a las tres hijas de la Vieja Valyria, es hora de consolidar mi poder." #NT!
+ agot_create_three_daughters_desc: "Ahora que controlo a las tres Hijas de la Vieja Valyria, es hora de consolidar mi poder." #NT!
  agot_create_three_daughters_tooltip: "Forma el reino de las Tres Hijas." #NT!
  agot_create_three_daughters_confirm: "Tráeme mi sello" #NT!
   
  agot_stepstones_rhoynish_culture: "Una nueva identidad" #NT!
  agot_stepstones_rhoynish_culture_desc: "Llevamos mucho tiempo varados en estas islas, y durante mucho tiempo nos hemos mantenido en nuestras raíces de Rhoyne y los Antiguos Principados. ¿Pero realmente deseamos seguir así?" #NT!
  agot_stepstones_rhoynish_culture_tooltip: "Surgirá una cultura nueva y divergente del $rhoynish$, con su propio conjunto de tradiciones." #NT!
- agot_stepstones_rhoynish_culture_confirm: "A nuevos comienzos." #NT!
+ agot_stepstones_rhoynish_culture_confirm: "Nuevos comienzos." #NT!
   
  agot_seize_control: "Tomar el control" #NT!
  agot_seize_control_desc: "Una dictadura no puede durar para siempre; si quiero asegurar la sucesión de mi dinastía debo abandonar toda pretensión de democracia." #NT!
@@ -114,6 +114,6 @@
  MYR: "#bold #high MYR#!#!" #NT!
  LYS: "#bold #high LYS#!#!" #NT!
  TYROSH: "#bold #high TYROSH#!#!" #NT!
- high_council_description: "#italic El Alto Consejo de la Triarquía está formado por once Magísteres de cada ciudad libre que lo compone.\n\nJuntos, votan todas las acciones importantes de las Tres Hijas y los de mayor rango entre ellos seleccionan a la próxima Triarca.#!" #NT!
+ high_council_description: "#italic El Alto Consejo de la Triarquía está formado por once Magísteres de cada Ciudad Libre que lo compone.\n\nJuntos, votan todas las acciones importantes de las Tres Hijas y los de mayor rango entre ellos seleccionan al próximo Triarca.#!" #NT!
  war_approved: "Aprobado por la guerra" #NT!
  war_denied: "Guerra negada" #NT!
