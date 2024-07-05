@@ -34,16 +34,16 @@
   
  silent_sisterhood_holder: "Madre silenciosa"
   
- nights_watch_government: "Guardia de la noche"
- nights_watch_government_adjective: "Guardia de la noche"
- nights_watch_government_realm: "Guardia de la noche"
+ nights_watch_government: "Guardia de la Noche"
+ nights_watch_government_adjective: "Guardia de la Noche"
+ nights_watch_government_realm: "Guardia de la Noche"
  nights_watch_government_desc: "La Guardia de la Noche es una orden militar que sostiene y protege el Muro para evitar que los salvajes y los Caminantes Blancos crucen a los Siete Reinos."
   
  seneschal_the_citadel_male: "$seneschal_court_position$" #NT!
- the_citadel_government: "El Cónclave" #NT!
- the_citadel_government_adjective: "El Cónclave" #NT!
- the_citadel_government_realm: "El Cónclave" #NT!
- the_citadel_government_desc: "El Cónclave es un [government_form|E] injugable controlado por un senescal que es elegido entre los archimaestres cada año. Los novatos se entrenan aquí para convertirse en maestres que eventualmente sirven al reino en la corte o con investigaciones. Este gobierno es exclusivo de la Ciudadela de Oldtown." #NT!
+ the_citadel_government: "La Ciudadela" #NT!
+ the_citadel_government_adjective: "La Ciudadela" #NT!
+ the_citadel_government_realm: "La Ciudadela" #NT!
+ the_citadel_government_desc: "La Ciudadela es un [government_form|E] injugable controlado por un senescal que es elegido entre los archimaestres cada año. Los novatos se entrenan aquí para convertirse en maestres que eventualmente sirven al reino en la corte o con investigaciones. Este gobierno es exclusivo de la Ciudadela de Antigua." #NT!
   
  kingsguard_government: "Guardia Real" #NT!
  kingsguard_government_desc: "Guardia Real" #NT!
@@ -74,13 +74,13 @@
  baron_watch_male: ""
  count_watch_male: "Comandante"
  duke_watch_male: "Caballero"
- king_watch_male: "Lord comandante"
- emperor_watch_male: "Lord comandante supremo"
+ king_watch_male: "Lord Comandante"
+ emperor_watch_male: "Lord Comandante Supremo"
   
- cant_fight_the_wall: "No puedes declarar la guerra a la guardia de la noche."
- cant_fight_the_seven_k_as_wall: "Como $nights_watch_government$, no puedes declarar la guerra a los siete reinos."
- NOT_cant_fight_the_wall: "No puedes declarar la guerra a la guardia de la noche."
- NOT_cant_fight_the_seven_k_as_wall: "Como $nights_watch_government$, no puedes declarar la guerra a los siete reinos."
+ cant_fight_the_wall: "No puedes declarar la guerra a la Guardia de la Noche."
+ cant_fight_the_seven_k_as_wall: "Como $nights_watch_government$, no puedes declarar la guerra a los Siete Reinos."
+ NOT_cant_fight_the_wall: "No puedes declarar la guerra a la Guardia de la Noche."
+ NOT_cant_fight_the_seven_k_as_wall: "Como $nights_watch_government$, no puedes declarar la guerra a los Siete Reinos."
   
   # King Flavourisation 
  king_stormlands: "Rey de la Tormenta"
@@ -93,91 +93,91 @@
  queen_wall: "Reina de la Noche"
   
   #Smaller Kingdoms 
- king_the_dreadlands: "Rey rojo" #NT!
+ king_the_dreadlands: "Rey Rojo" #NT!
  queen_the_dreadlands: "Reina Roja" #NT!
- king_the_neck: "Rey del pantano" #NT!
- queen_the_neck: "Reina del pantano" #NT!
+ king_the_neck: "Rey del Pantano" #NT!
+ queen_the_neck: "Reina del Pantano" #NT!
  king_bear_island: "Rey Oso" #NT!
- queen_bear_island: "Reina del oso" #NT!
- king_last_lands: "Último rey" #NT!
- queen_last_lands: "Última reina" #NT!
- king_greystones: "Rey gris" #NT!
- queen_greystones: "Reina gris" #NT!
- king_barrows_and_rills: "Rey túmulo" #NT!
- queen_barrows_and_rills: "Reina del túmulo" #NT!
- king_the_wolfswood: "Rey de madera" #NT!
- queen_the_wolfswood: "Reina de madera" #NT!
- king_the_white_knife: "Rey del puerto" #NT!
- queen_the_white_knife: "Reina del puerto" #NT!
+ queen_bear_island: "Reina Osa" #NT!
+ king_last_lands: "Último Rey" #NT!
+ queen_last_lands: "Última Reina" #NT!
+ king_greystones: "Rey Gris" #NT!
+ queen_greystones: "Reina Gris" #NT!
+ king_barrows_and_rills: "Rey Túmulo" #NT!
+ queen_barrows_and_rills: "Reina Túmulo" #NT!
+ king_the_wolfswood: "Rey de Madera" #NT!
+ queen_the_wolfswood: "Reina de Madera" #NT!
+ king_the_white_knife: "Rey del Puerto" #NT!
+ queen_the_white_knife: "Reina del Puerto" #NT!
  king_great_wyk: "Rey del rock" #NT!
  queen_great_wyk: "Reina del rock" #NT!
- king_ironmans_bay: "Rey de la sal" #NT!
- queen_ironmans_bay: "Reina de la sal" #NT!
- king_the_gods_eye: "Rey negro" #NT!
- queen_the_gods_eye: "Reina negra" #NT!
+ king_ironmans_bay: "Rey de la Sal" #NT!
+ queen_ironmans_bay: "Reina de la Sal" #NT!
+ king_the_gods_eye: "Rey Negro" #NT!
+ queen_the_gods_eye: "Reina Negra" #NT!
  king_the_blue_fork: "Rey Cuervo" #NT!
  queen_the_blue_fork: "Reina Cuervo" #NT!
- king_the_red_fork: "Rey de los setos" #NT!
- queen_the_red_fork: "Reina del seto" #NT!
- king_the_green_fork: "Rey del cruce" #NT!
- queen_the_green_fork: "Reina del cruce" #NT!
+ king_the_red_fork: "Rey de los Setos" #NT!
+ queen_the_red_fork: "Reina del Seto" #NT!
+ king_the_green_fork: "Rey del Cruce" #NT!
+ queen_the_green_fork: "Reina del Cruce" #NT!
  king_maidenpool: "Rey Salmón" #NT!
- queen_maidenpool: "Reina del Salmón" #NT!
- king_runestone: "Rey de Bronce"
- queen_runestone: "Reina de Bronce"
- king_oldtown: "Rey de la torre" #NT!
- queen_oldtown: "Reina de la torre" #NT!
- king_the_arbor_straits: "Rey de la vid" #NT!
- queen_the_arbor_straits: "Reina de la vid" #NT!
- king_westmarch: "Rey de marzo" #NT!
- queen_westmarch: "Reina de marzo" #NT!
- king_stone_and_sky: "Rey del cielo" #NT!
- queen_stone_and_sky: "Reina del cielo" #NT!
+ queen_maidenpool: "Reina Salmón" #NT!
+ king_runestone: "Rey Bronce"
+ queen_runestone: "Reina Bronce"
+ king_oldtown: "Rey de la Torre" #NT!
+ queen_oldtown: "Reina de la Torre" #NT!
+ king_the_arbor_straits: "Rey de la Vid" #NT!
+ queen_the_arbor_straits: "Reina de la Vid" #NT!
+ king_westmarch: "Rey de la Marca" #NT!
+ queen_westmarch: "Reina de la Marca" #NT!
+ king_stone_and_sky: "Rey del Cielo" #NT!
+ queen_stone_and_sky: "Reina del Cielo" #NT!
  king_the_brimstone: "Rey Azufre" #NT!
- queen_the_brimstone: "Reina del azufre" #NT!
- king_the_torrentine: "Rey estrella" #NT!
- queen_the_torrentine: "Reina estrella" #NT!
- king_godsgrace: "Rey de arena" #NT!
- queen_godsgrace: "Reina de arena" #NT!
- king_the_tor: "Rey de arena" #NT!
- queen_the_tor: "Reina de arena" #NT!
+ queen_the_brimstone: "Reina Azufre" #NT!
+ king_the_torrentine: "Rey Estrella" #NT!
+ queen_the_torrentine: "Reina Estrella" #NT!
+ king_godsgrace: "Rey de Arena" #NT!
+ queen_godsgrace: "Reina de Arena" #NT!
+ king_the_tor: "Rey de Arena" #NT!
+ queen_the_tor: "Reina de Arena" #NT!
  king_the_red_mountains: "Rey Buitre" #NT!
- queen_the_red_mountains: "Reina buitre" #NT!
+ queen_the_red_mountains: "Reina Buitre" #NT!
  king_tarth: "Rey Zafiro" #NT!
  queen_tarth: "Reina Zafiro" #NT!
- king_eastmarch: "Rey de marzo" #NT!
- queen_eastmarch: "Reina de marzo" #NT!
- king_the_banefort: "Rey encapuchado" #NT!
- queen_the_banefort: "Reina encapuchada" #NT!
- king_fair_isle: "Rey justo" #NT!
- queen_fair_isle: "Reina justa" #NT!
- king_yronwood: "Sangre real" #NT!
- queen_yronwood: "Sangre real" #NT!
+ king_eastmarch: "Rey de la Marca" #NT!
+ queen_eastmarch: "Reina de la Marca" #NT!
+ king_the_banefort: "Rey Encapuchado" #NT!
+ queen_the_banefort: "Reina Encapuchada" #NT!
+ king_fair_isle: "Rey Justo" #NT!
+ queen_fair_isle: "Reina Justa" #NT!
+ king_yronwood: "Sangre Real" #NT!
+ queen_yronwood: "Sangre Real" #NT!
  king_the_claw: "Rey Garra" #NT!
  queen_the_claw: "Reina Garra" #NT!
  king_duskendale: "Rey Oscuro"
  queen_duskendale: "Reina Oscura"
- king_the_fingers: "Rey dedo" #NT!
- queen_the_fingers: "Reina de los dedos" #NT!
- king_the_hook: "Rey de piedra" #NT!
- queen_the_hook: "Reina de piedra" #NT!
- king_the_crownlands: "Rey de aguas negras" #NT!
- queen_the_crownlands: "Reina de aguas negras" #NT!
- king_the_stormlands: "Rey Tormenta" #NT!
- queen_the_stormlands: "Reina de la tormenta" #NT!
+ king_the_fingers: "Rey de los Dedos" #NT!
+ queen_the_fingers: "Reina de los Dedos" #NT!
+ king_the_hook: "Rey de Piedra" #NT!
+ queen_the_hook: "Reina de Piedra" #NT!
+ king_the_crownlands: "Rey de Aguasnegras" #NT!
+ queen_the_crownlands: "Reina de Aguasnegras" #NT!
+ king_the_stormlands: "Rey de la Tormenta" #NT!
+ queen_the_stormlands: "Reina de la Tormenta" #NT!
  king_dorne: "Principe"
  queen_dorne: "Princesa"
- king_the_westerlands: "Rey de oro" #NT!
- queen_the_westerlands: "Reina de oro" #NT!
- king_the_riverlands: "Rey del río" #NT!
- queen_the_riverlands: "Reina del rio" #NT!
- king_the_vale: "Rey de la montaña" #NT!
- queen_the_vale: "Reina de la montaña" #NT!
+ king_the_westerlands: "Rey Oro" #NT!
+ queen_the_westerlands: "Reina Oro" #NT!
+ king_the_riverlands: "Rey del Río" #NT!
+ queen_the_riverlands: "Reina del Rio" #NT!
+ king_the_vale: "Rey de la Montaña" #NT!
+ queen_the_vale: "Reina de la Montaña" #NT!
  king_the_iron_islands: "Rey de Hierro" #NT!
- queen_the_iron_islands: "Reina de hierro" #NT!
- king_the_north: "Rey del invierno" #NT!
- queen_the_north: "Reina del invierno" #NT!
- king_the_reach: "Rey del jardín" #NT!
- queen_the_reach: "Reina del jardín" #NT!
- king_dragonstone: "Rey del mar" #NT!
- queen_dragonstone: "Reina del mar" #NT!
+ queen_the_iron_islands: "Reina de Hierro" #NT!
+ king_the_north: "Rey del Invierno" #NT!
+ queen_the_north: "Reina del Invierno" #NT!
+ king_the_reach: "Rey del Dominio" #NT!
+ queen_the_reach: "Reina del Dominio" #NT!
+ king_dragonstone: "Rey del Mar" #NT!
+ queen_dragonstone: "Reina del Mar" #NT!
