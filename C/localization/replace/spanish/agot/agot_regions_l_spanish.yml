@@ -7,49 +7,49 @@
  world_westeros_the_wall_only: "El Muro"
   
  world_disputed_lands: "Las tierras en disputa"
- world_north_essos: "Essos del norte"
- world_summer_sea: "El mar de verano"
- world_slavers_bay: "Bahía de los esclavistas"
+ world_north_essos: "Norte de Essos"
+ world_summer_sea: "El Mar del Verano"
+ world_slavers_bay: "Bahía de los Esclavos"
  world_essos_andalos: "Ándalos" #NT!
  world_essos_pentos: "Pentos" #NT!
- world_essos_myr: "Mir" #NT!
- world_essos_tyrosh: "Tirosh" #NT!
- world_essos_lys: "Lis" #NT!
- world_stepstones: "Los peldaños" #NT!
+ world_essos_myr: "Myr" #NT!
+ world_essos_tyrosh: "Tyrosh" #NT!
+ world_essos_lys: "Lys" #NT!
+ world_stepstones: "Los Peldaños" #NT!
  world_essos_disputed_lands: "Las tierras en disputa" #NT!
   
  world_westeros_beyond_the_wall_thenn: "Thenn"
  world_westeros_beyond_the_wall_the_frostfangs: "Los Colmillos Helados"
- world_westeros_beyond_the_wall_the_ice_lakes: "Los lagos de hielo"
- world_westeros_beyond_the_wall_first_forest: "Primer bosque"
- world_westeros_beyond_the_wall_the_frozen_shore: "La orilla congelada"
- world_westeros_beyond_the_wall: "Más allá de El Muro"
+ world_westeros_beyond_the_wall_the_ice_lakes: "Los Lagos del Hielo"
+ world_westeros_beyond_the_wall_first_forest: "Primer Bosque"
+ world_westeros_beyond_the_wall_the_frozen_shore: "La Orilla Congelada"
+ world_westeros_beyond_the_wall: "Más Allá de El Muro"
  world_westeros_the_wall: "El Muro"
   
- world_westeros_seven_kingdoms: "Los siete reinos" #NT!
- world_westeros_dorne_stone: "Dorniense de piedra"
- world_westeros_dorne_rhoynish: "Rhoynish Dorne"
+ world_westeros_seven_kingdoms: "Los Siete Reinos" #NT!
+ world_westeros_dorne_stone: "Dorne piedrense"
+ world_westeros_dorne_rhoynish: "Dorne rhoynishense"
  world_westeros_dorne: "Dorne"
- world_westeros_dornish_marches: "Las marcas dornienses" #NT!
- world_westeros_dorne_red_dunes: "Las dunas rojas" #NT!
- world_westeros_dornish_dustbowl: "El cuenco de polvo" #NT!
- world_westeros_dornish_mountains: "Las montañas dornienses" #NT!
+ world_westeros_dornish_marches: "Las Marcas dornienses" #NT!
+ world_westeros_dorne_red_dunes: "Las Dunas Rojas" #NT!
+ world_westeros_dornish_dustbowl: "El Cuenco del Polvo" #NT!
+ world_westeros_dornish_mountains: "Las Montañas dornienses" #NT!
  world_westeros_the_crownlands_reachman: "? MARCADOR DE POSICIÓN"
  world_westeros_the_crownlands_riverlander: "? MARCADOR DE POSICIÓN"
  world_westeros_the_crownlands_stormlander: "? MARCADOR DE POSICIÓN"
  world_westeros_the_crownlands_valyrian: "? MARCADOR DE POSICIÓN"
- world_westeros_dragonstone_island: "Piedra dragón" #NT!
- world_westeros_dragonstone_kingdom: "Piedra dragón" #NT!
- world_westeros_the_crownlands: "Las tierras de la corona"
+ world_westeros_dragonstone_island: "Rocadragón" #NT!
+ world_westeros_dragonstone_kingdom: "Rocadragón" #NT!
+ world_westeros_the_crownlands: "Las Tierras de la Corona"
  world_westeros_the_iron_islands: "Las Islas del Hierro"
  world_westeros_the_neck: "El Cuello"
  world_westeros_the_north: "El Norte"
- world_westeros_the_reach: "El Alcanze"
+ world_westeros_the_reach: "El Dominio"
  world_westeros_the_riverlands: "Las Tierras de los Ríos"
  world_westeros_the_stormlands: "Las Tierras de la Tormenta"
  world_westeros_the_vale: "El Valle"
- world_westeros_the_vale_mainland: "El valle continental" #NT!
+ world_westeros_the_vale_mainland: "El Valle continental" #NT!
  world_westeros_the_westerlands: "Las Tierras del Oeste"
- world_westeros_moonclans: "Clanes de la luna"
+ world_westeros_moonclans: "Clanes de la Luna"
   
- world_essos_free_cities: "Las ciudades libres" #NT!
+ world_essos_free_cities: "Las Ciudades Libres" #NT!
